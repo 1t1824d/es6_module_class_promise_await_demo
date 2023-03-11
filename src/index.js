@@ -5,3 +5,4 @@
 //import './js/map'
 import './module'
 import './class&module'
+import './动态模块'
