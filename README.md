@@ -11,3 +11,5 @@
 ## es6动态模块import()
 
 <img src="https://img-blog.csdnimg.cn/491483db6f0f4e1d825d9c0b7b170a06.png"/>
+
+<img src="https://img-blog.csdnimg.cn/fe711b1bad074bf4981cd33a1b77e8d5.gif"/>
